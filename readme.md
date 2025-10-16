@@ -272,13 +272,13 @@ Contributions sind willkommen!
 ## Screenshots
 
 ### Hauptansicht Lötmikroskop
-![Hauptansicht](images/hauptansicht.jpg)
+![Hauptansicht](hauptansicht.jpg)
 
 ### Einstellungsmöglichkeiten
-![Zoom beim Löten](images/einstellungen.jpg)
+![Zoom beim Löten](einstellungen.jpg)
 
 ### Auflösungen
-![Hardware](images/auflösungen.jpg)
+![Hardware](auflösungen.jpg)
 
 
 
