@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Lötmikroskop
+Comment=Digitales Lötmikroskop mit Raspberry Pi HQ Kamera
+Exec=/usr/bin/python3 /home/pi/loetmikroskop.py
+Icon=camera
+Terminal=false
+Categories=Application;Science;Education;
+Keywords=microscope;camera;soldering;
